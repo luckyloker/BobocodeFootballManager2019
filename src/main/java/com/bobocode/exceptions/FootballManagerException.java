@@ -1,4 +1,4 @@
 package com.bobocode.exceptions;
 
-public class FootballManagerException {
+public class FootballManagerException extends RuntimeException {
 }
